@@ -72,3 +72,8 @@ When you're all finished, write a `README` file detailing all steps required to 
 # Contributing
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+
+If you wish to contribute please create a PR at https://github.com/gb015j/Feed_Reader
+
+Steps to use feedreader:
+Open index.html and you will see the test results at the bottom of the page
